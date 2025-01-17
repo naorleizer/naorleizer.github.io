@@ -1,0 +1,10 @@
+title: "Naor Leizer"
+description: "Naor Leizer's Page"
+baseurl: "" # Adjust if hosting in a subdirectory
+url: "https://naorleizer.github.io"
+theme: minima
+
+# Social Links
+social:
+  email: naorleizer@gmail.com
+  linkedin: https://www.linkedin.com/in/naor-leizer
